@@ -1,0 +1,6 @@
+import pyautogui as pa
+import time
+import pyperclip
+
+time.sleep(3)
+print(pa.position())
